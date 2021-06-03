@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A nevv paire of spectacles of the old fashion, for the Scots Commissioners to helpe their eye-sight, when they are returned to the Parliament at Edenburgh. To give account of their protest against and demands of, the Parliament of England. March 5. 1648. Imprimatur Theodore Jennings.</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90001</idno><idno type="EEBO-CITATION">99863140</idno>
+  <idno type="VID">115324</idno>
+  <idno type="EEBO-PROQUEST">2240935527</idno>
+  
+            <idno type="STC">Wing N696</idno>
+            <idno type="STC">Thomason E546_3</idno>
+            <idno type="STC">ESTC R203046</idno>
+            <idno type="PROQUEST">99863140</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99863140e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90001)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115324)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E546[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A nevv paire of spectacles of the old fashion, for the Scots Commissioners to helpe their eye-sight, when they are returned to the Parliament at Edenburgh. To give account of their protest against and demands of, the Parliament of England. March 5. 1648. Imprimatur Theodore Jennings.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Ibbitson in Smithfield near the Queens-head Tavern,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648 [i.e. 1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a title-page woodcut.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Scotland. --  Parliament --  Early works to 1800.</term>
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  Politics and government --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115324:1"/>
+            <pb facs="tcp:115324:1"/>
+            <p>A NEVV Paire of Spectacles Of the old Fashion, for the <hi>SCOTS COMMISSIONERS</hi> TO Helpe their Eye-sight, when they are returned to the Parliament at <hi>EDENBURGH.</hi>
+            </p>
+            <p>To give account of their Protest against And Demands of, the Parliament of <hi>ENGLAND.</hi>
+            </p>
+            <figure>
+               <head>A paire of Cristall Spectacles</head>
+            </figure>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>March</hi> 5. 1648.</date>
+                           </dateline>
+                        </opener>
+                        <p>Imprimatur</p>
+                        <closer>
+                           <signed>THEODORE JENNINGS.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>London Printed by Robert Ibbitson in Smithfield near the Queens-head Tavern, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:115324:2"/>
+            <pb n="1" facs="tcp:115324:2"/>
+            <p>
+               <seg rend="decorInit">I</seg>T is asserted by <hi>Fordome, Major, Boethius, Buchanan, Hollanshed,</hi> who run all upon this Principle, That the States of the Kingdom of <hi>Scotland,</hi> did 1 chuse a <hi>Monarchy,</hi> and freely, and no other Government. 2 That they freely elected <hi>Fergus</hi> to be their <hi>King.</hi> 3 King <hi>Fergus</hi> frequently conveened the <hi>Parliament,</hi> called, <hi>Insu<g ref="char:EOLhyphen"/>lanorum Duces, Tribuum Rectores, Majorum consessus, Conventus Ordi<g ref="char:EOLhyphen"/>num, conventus Statuū, Communitatum Regni, Phylarchi, Primores, Prin<g ref="char:EOLhyphen"/>cipes, patres,</hi> and as <hi>Hollanshed</hi> saith, they made <hi>Fergus King,</hi> ther<g ref="char:EOLhyphen"/>fore a Parliament is before the King; yea, and after the death of <hi>King Fergus, Philarchi coeunt concione advocatâ,</hi> the Estates con<g ref="char:EOLhyphen"/>vened without any King, and made that fundamentall Law, Regni electivi, <hi>That when the Kings children was minores, any of the Fergusian Race might be chosen to Reigne:</hi> and this indured to the daies of <hi>Kennethus:</hi> and <hi>Redotha Rex</hi> 7. resigneth and maketh o<g ref="char:EOLhyphen"/>ver the Government into the hands of the Parliament, and <hi>Phi<g ref="char:EOLhyphen"/>larchi &amp; Tribuum Gubernatores,</hi> ordained <hi>Therius</hi> the 8 King. Bu<g ref="char:EOLhyphen"/>chanan, l. 4. <hi>Rer. Scot.</hi> calleth him <hi>Reutha,</hi> and said he did this, <hi>Populo egrè permittente,</hi> then the Royall power recurred to the fountain. <hi>Therius</hi> the 8. a wicked man, filled the Kingdom with Robberies, fearing that the Parliament should punish him, fled to the <hi>Britaines,</hi> and thereupon the Parliament chose <hi>Connanus</hi> to be Prorex, and protector of the Kingdome.</p>
+            <p>
+               <hi>Finnanus</hi> R. 10. Decreed <hi>Ne quid Reges, quod majoris esset momenti, nisi de publici consilii authoritate juberent, &amp; ne domestico consilio remp. administrarent, regia publicaque negotia non fine patrum consultatione du<g ref="char:EOLhyphen"/>ctu{que} tractarentur, nec bellum pacem aut faedera reg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s per se patrum, Tri<g ref="char:EOLhyphen"/>buumve, Rectorum injussu facerent, demerentue.</hi> Then it is clear, that Parliaments were <hi>consortes imperii,</hi> and had Authority with and above the King. When a Law is made that the Kings should doe nothing <hi>Injussu rectorum tribuum,</hi> without commandement of the Parliament, a <hi>Cabinet Counsell</hi> was not lawfull to the Kings of <hi>Scotland.</hi> So Durstus Rex XI. sweareth to the Parliament, <hi>Se nihil nisi de primorum consilio acturum, That hee shall doe nothing but by counsell of the Rulers and Heads of the Kingdome.</hi>
+            </p>
+            <p>The <hi>Parliament</hi> rejecting the lawfull son of <hi>Corbredus</hi> the 20 King, because he was young, created <hi>Dardanus</hi> the son of <hi>Metel<g ref="char:EOLhyphen"/>lanus</hi>
+               <pb n="2" facs="tcp:115324:3"/> King, which is a great argument of the power of the <hi>Scot<g ref="char:EOLhyphen"/>tish</hi> Parliament of old for elective, rather then hereditary <hi>Kings.</hi>
+            </p>
+            <p>
+               <hi>Corbredus secundus,</hi> called <hi>Galdus,</hi> the 21 King, at his Coronati<g ref="char:EOLhyphen"/>on renouncing all negative voyces, did swear, <hi>Se majorum consi<g ref="char:EOLhyphen"/>liis anquieturum, That he should be ruled by the Parliament;</hi> and it is said <hi>Leges quasdam tollere non potuit, adversante multitudine.</hi>
+            </p>
+            <p>
+               <hi>Lactatus</hi> R. 22. is censured by a Parliament, <hi>Quod spreto majo<g ref="char:EOLhyphen"/>rum consilio, He appointed base men to publique Offices.</hi>
+            </p>
+            <p>
+               <hi>Mogaldus</hi> R. 23. <hi>Ad consilia seniorum omnia ex prisco more revocavis, did all by the Parliament, as the ancient custome was.</hi>
+            </p>
+            <p>
+               <hi>Coranus</hi> 24. K. was cast in Prison by the Parliament. <hi>Quod non expectato decreto patrum, quod summa erat potestatis, privatis consiliis ad<g ref="char:EOLhyphen"/>ministrasse<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Because he did the weightiest businesse that concerned the Kingdome, by private advice, without the judiciall Ordinance of Parlia<g ref="char:EOLhyphen"/>ment, that was of greatest authority.</hi> Where is the negative voyce of the King here?</p>
+            <p>
+               <hi>Ethodius</hi> 2. the son of <hi>Ethodius</hi> the 1. the 28 King. (The Parlia<g ref="char:EOLhyphen"/>ment passing by his son of the first bed, because he was a childe, had created <hi>S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>trael</hi> his Brother <hi>King</hi> before) a simple ignorant man, yet for reverence to the name of <hi>Fergus,</hi> kept the name of a King, but the Estates appointed tutors to him, he was the 28 <hi>K.</hi>
+            </p>
+            <p>
+               <hi>Nathalocus</hi> the 30 K. corrupting the Nobles with bribes and fair promises, obtained the Crown.</p>
+            <p>
+               <hi>R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>machus, Fethelmachus,</hi> and <hi>Angusianus,</hi> or as Buchanan calleth him <hi>Aeneannus,</hi> contended for the Crown, the Parliament con<g ref="char:EOLhyphen"/>vened to judge the matter, was dissolved by tumult, and <hi>Roma<g ref="char:EOLhyphen"/>chus</hi> chosen King, doing all, <hi>Non adhibitio, de more, consilio majorum,</hi> was censured by the Parliament.</p>
+            <p>
+               <hi>Fergus</hi> the 2. was created King by the States, <hi>De more.</hi>
+            </p>
+            <p>
+               <hi>Constantine</hi> 43 K. a wicked man, was punished by the States.</p>
+            <p>
+               <hi>Aidanus</hi> 49 K. by the counsell of <hi>Sanctus Columba,</hi> governed all in peace, by three Parliaments every year.</p>
+            <p>
+               <hi>Ferchardus</hi> 52 K. and <hi>Ferchardus</hi> 2. the 54 K. were both censured by Parliaments.</p>
+            <p>
+               <hi>Eugenius</hi> 62 K. a wicked Prince, was put to death by the Par<g ref="char:EOLhyphen"/>liament, <hi>Omnibus in ejus exitium, consentientibus.</hi>
+            </p>
+            <p>
+               <hi>Eugenius</hi> 7. the 59 K. was judicially accused, and absolved by the States, for killing his Wife <hi>Spondana.</hi>
+            </p>
+            <pb n="9" facs="tcp:115324:3"/>
+            <p>
+               <hi>Donaldus</hi> the 70 K. was censured by a Parliament which con<g ref="char:EOLhyphen"/>vened <hi>Pro salute Reipublicae,</hi> for the good of the land. So <hi>Ethus</hi> the 72. K. <hi>Ne unius culpâ, reg<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n periret.</hi>
+            </p>
+            <p>Gregorius the 73. K. <hi>sweareth to maintaine Kirk and State in their liberties; the Oath is ordained to be sworn by all Kings at their Coronation.</hi>
+            </p>
+            <p>The Estates complain of <hi>Duffus</hi> 78 K. because contemning the counsell of the Nobles, <hi>Sacrificulorum consiliis abduceretur,</hi> and that neither the Nobility must depart the Kingdome, or ano- the King must be made.</p>
+            <p>
+               <hi>Culenus</hi> the 79. King, was summoned before the Estates, so be<g ref="char:EOLhyphen"/>fore him <hi>Constantine</hi> the 3. the 75. K. did by Oath resigne the Kingdome to the States, and entred in a Monastery at Saint <hi>Andrewes.</hi>
+            </p>
+            <p>
+               <hi>Kenethus</hi> the 70. K. procured almost <hi>per vim</hi> saith <hi>Buchanan,</hi> that the Parliament should change the elective Kings in hereditary, observe the <hi>Power of Parliaments.</hi>
+            </p>
+            <p>After this <hi>Grimus,</hi> and then <hi>Machethus,</hi> R. 85. is rebuked for governing by private counsell, in his time the King is ordained by the States, <hi>to swear to maintain the community of the Kingdom.</hi>
+            </p>
+            <p>When <hi>Maccolumbus</hi> the 92. K. would have admitted a Treaty to the hurt of the Kingdome; the Nobles said, <hi>Non jus esse Regi, the King hath no right to take any thing from the Kingdom, Nisi emnibus Ordinibus consentientibus.</hi> In the time of <hi>Alexander</hi> the 94. K. is or<g ref="char:EOLhyphen"/>dained, <hi>Acta regis oporteri confirmari decreto ordinum regni, quia ordi<g ref="char:EOLhyphen"/>nibus regni non consultis, aut adversantibus, nihil quod ad totius regni sta<g ref="char:EOLhyphen"/>tum attine, Regi agere liceret.</hi> So all our Historians observe, by which it is clear, that the Parliment, not the King hath a nega<g ref="char:EOLhyphen"/>tive voyce.</p>
+            <p>The States answer to K. <hi>Edwards</hi> Legates concerning <hi>Balzees</hi> conditions in his contest with <hi>Bruce</hi> is, <hi>That these conditions were made a</hi> solo Rege, <hi>by the King onely, without the estates, of the King<g ref="char:EOLhyphen"/>dome, and therefore they did not oblige the Kingdome.</hi>
+            </p>
+            <p>In <hi>Robert</hi> the <hi>Bruce</hi> his Raign, the K. 97. the succession to the Crown is appointed by Act of <hi>Parliament,</hi> and twice changed; and in the League with France, <hi>Quod quando de successuro rege am<g ref="char:EOLhyphen"/>bigeretur apud Scotos, ea controversia ab Ordinum de creto decider tur.</hi>
+            </p>
+            <p>
+               <hi>Robert</hi> the 1000. K. in a Parliament at <hi>Scoone</hi> moved the States to appoint the Earl of <hi>Carick</hi> his eldest son, of the second Mari<g ref="char:EOLhyphen"/>age
+<pb n="4" facs="tcp:115324:4"/> to the Crown, passing his children of the first Mariage, and when he would have made a Treaty, he was told, that he could not <hi>inducias facere nisi ex sententia conventus publici;</hi> he could not make Truces but with the consent of the Estates of Parliment.</p>
+            <p>K. <hi>James</hi> the 1. could not do any thing in his Oath in <hi>England.</hi> The Parliaments approbation of the Battell at Stirling against King <hi>James</hi> the 3. is set down in the printed Acts, because <hi>he had not the consent of the States.</hi>
+            </p>
+            <p>To come to our first Reformation, Queen Regent breaking her promise to the States, said, <hi>Faith of promise should not be sought from Princes,</hi> the States answered, <hi>That they then were not obliged to o<g ref="char:EOLhyphen"/>bey, and suspended her government as inconsistent with the duty of Princes, by the Articles of</hi> pacification at <hi>Leith,</hi> Anno 1560. <hi>Junii</hi> 16. <hi>No peace or war can be without the States.</hi>
+            </p>
+            <p>In the Parliment thereafter, Anno 1560. the Nobility say fre<g ref="char:EOLhyphen"/>quently to the Queen, <hi>Regum Scotorum limitatum esse imperium, neo unquam ad unius libidinem, sed ad legum praescriptum &amp; nobilitatis consen<g ref="char:EOLhyphen"/>sum regi solitum.</hi>
+            </p>
+            <p>So it is declared, <hi>Parliament at Sterlinng,</hi> 1578. and Parl. 1567, concerning Queen <hi>Mary,</hi> I need not insist here. K. <hi>James</hi> the 6. An. 1567. Jul. 21. was Crowned, the <hi>Earle of Morton and Humne, jurarunt pro eo, &amp; ejus nomine, in leges, eum doctrinam &amp; ritus religionis, quae tum docebantur, publicè quo ad posset, servaturum, &amp; contraries op<g ref="char:EOLhyphen"/>pugnaturum.</hi> Buch. Rer. Scot. Hist. l. 18. <hi>The three Estates revoke all a<g ref="char:EOLhyphen"/>lienations made by the King without consent of the Parliament. Parliam. K.</hi> James, 2. <hi>chap.</hi> 2. <hi>K.</hi> James 4, 5, 6.</p>
+            <p>
+               <hi>Three Parliaments of K.</hi> James <hi>the</hi> 2. <hi>are holden without any mention of the King, as</hi> Anno 1437. An. 1438. An. 1440. and the 5. and 6. Act of Parl. 1440 the Estates <hi>ordained the King to do such and such things, to ride through the country for doing of Justice.</hi> And Parl. 1. K. James 1. Act. 23. the Estates ordained <hi>the King to mend his mony.</hi> But shew any Parliament wherever the King doth prescribe Lawes to the States, or censure the States.</p>
+            <p>In the 1 Parl. of K. <hi>James</hi> the 6. the Confession of Faith being ratified, in Acts made by the three Estates, that the <hi>Kings</hi> must swear at their Coronation. <hi>In the pretence of the eternall God, that they shall maintain the true Religion, right Preaching, and administrati<g ref="char:EOLhyphen"/>on of the Sacrament, now received and preached within this Realme: and
+<pb n="5" facs="tcp:115324:4"/> shall abolish and gain-stand all false Religions contrary to the same: and shall rule the people committed to their charge according to the will of God laudable Lawes and Customes of the Realme, &amp;c.</hi>
+            </p>
+            <p>The 1 Parl. of K. <hi>James</hi> the 6. 1567. approveth the Acts, <hi>Parl.</hi> 1560. conceived only in name of the <hi>States without the King and Queen</hi> who had deserted the same So saith the <hi>Act,</hi> 2 5, 4 20.28 And so this Parl. wanting the King and Queens authority, is confirmed, Parl. 1572. Act. 51. K. <hi>Ja.</hi> 6 and Parl. 1581. Act. 1. and Par. 1581. Act. 115. in which it is declared, <hi>That they have been com<g ref="char:EOLhyphen"/>mon laws from their first Date:</hi> and all are ratified, Parl. 1587 and Par. 1592. Act 1. and stand ratified to this day, by <hi>K. Charles</hi> his Parl. 1633. The Act of the Assembly 1566. commendeth that Parl. 1560. as the <hi>most lawfull and free Parliament that ever was in the Kingdome.</hi>
+            </p>
+            <p>Yea, even Parl. 1641. K. <hi>Charles</hi> himself being present, an Act was passed upon the occasion of the Kings illegall imprisoning of the Laird of <hi>Langtrun,</hi> That the K. hath no power to imprison any Member of the Parl. without consent of the Parliament: Which Act, to the great pre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>udice of the liberty of the Sub<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ect, should not have been left unprinted: for, by what Law the King may imprison one Member of the Parl. by that same reason he may imprison two, and twenty, and a hundred: and so may he clap up the whole Free Estates; and where shall then the highest Court of the Kingdome be?</p>
+            <p>All Polititians say, the King is a limited Prince, not absolute; where the King giveth out Laws, not in his own name, but in the name of himself, and the Estates judicially conveened.</p>
+            <p>
+               <hi>Pag.</hi> 33. of the old Acts of Parliament, Members are summon<g ref="char:EOLhyphen"/>ed to treat and conclude.</p>
+            <p>The duty of Parliaments, and their power, according to the Laws of <hi>Scotland,</hi> may be seen in the History of <hi>Knox,</hi> now print<g ref="char:EOLhyphen"/>ed at <hi>London, An.</hi> 1643. in the Nobles proceeding with the <hi>Queen who killed her Husband, and after marryed Bodwell,</hi> and was arraigned in Parliament, and by a great part condemned to death, by ma<g ref="char:EOLhyphen"/>ny, to perpetuall imprisonment.</p>
+            <p>K. <hi>Charles</hi> received not Crown, Sword, and Scepter, while first he did swear the Oath that K. <hi>James</hi> his Father did swear, 2. He was not crowned, till one of every one of the three Estates came
+<pb n="6" facs="tcp:115324:5"/> and offered to him the Crown. 3 With an, expresse conditio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of his duty, before he be crowned.</p>
+            <p>After, King <hi>Charles said, I will by Gods assistance bestow my life f<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> your defence, wishing to live no longer, than that I may see this Kingdome flourish in happinesse.</hi> Thereafter the King shewing himself on a Stage to the people, the P. Archbishop said; <hi>Sir, I doe present <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> you, King</hi> Charles, <hi>the right descended inheritor, the Crown, and dignit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of this Realm;</hi> appointed by the Peers of the Kingdom: And, <hi>Are ye not willing to have him for your King, and become subject to him?</hi> The <hi>King</hi> turning himselfe on the Stage to bee seen of the People, they declare their willingnesse, by crying, <hi>God save King</hi> Charles <hi>Let the King live.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>March</hi> 5. 1648.</date>
+               </dateline>
+            </opener>
+            <p>Imprimatur</p>
+            <closer>
+               <signed>Theodore Jennings.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
